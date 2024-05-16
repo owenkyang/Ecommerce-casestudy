@@ -1,2 +1,2 @@
 # Ecommerce-casestudy
-# Due Date: Week of June 3rd
+Due Date: Week of June 3rd
